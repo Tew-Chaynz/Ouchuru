@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello there 👋
+
+Let me introduce myself. My name is "Kevin Antonio", you can call me "Ouchurus". I'm 21 years old. And, I'm from Panama. I love web scraping (I think), and creating bugs 🐛
 
 <!--
 **Ouchuru/Ouchuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
